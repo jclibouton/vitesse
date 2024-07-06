@@ -1,6 +1,6 @@
 '''original organie en classe sans commentaires'''
 
-"""Init git"""
+
 
 
 import numpy as np
